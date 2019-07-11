@@ -1,9 +1,1 @@
-TABLENAME=Received_Items
-DBNAME=warehouse_receipts
-USERNAME=user@2018
-PASSWORD=Passw0rd
-
-HOST=WHSE_01
-MF_USER = df143
-MF_PASSWORD = dnspass
-FILENAME=N01.Z4.STORELOC.OUT
+#include<stdio.h>
